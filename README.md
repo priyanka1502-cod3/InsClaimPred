@@ -1,16 +1,16 @@
-# 💼 Insurance Claim Prediction using Random Forest
+# 💼 Insurance Claim Prediction using ML
 
-## 📌 Objective:
-To develop a predictive model that forecasts the likelihood of a claim based on customer and policy features.
+## 📌 Objective
+Predict if a customer will file an insurance claim using demographic and policy-related data.
 
-## 🔧 Tools & Technologies:
-- Python | Pandas | NumPy
-- Random Forest, Logistic Regression
-- Data Cleaning, Feature Engineering
+## 🛠️ Methods
+- Logistic Regression
+- Random Forest
+- Feature Selection
+- Imputation for missing values
 
-## 📊 Outcome:
-Increased model prediction accuracy by 15%. Improved claim handling using real-time prediction capability.
+## 🎯 Result
+15% improvement in predictive accuracy. Improved customer segmentation and policy review process.
 
-## 🧠 Learning Outcome:
-Solidified my understanding of ML pipelines and model deployment steps.
-
+## 🔧 Tech Stack
+Python, Pandas, NumPy, Scikit-learn
